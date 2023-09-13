@@ -20,6 +20,9 @@ El repositorio está organizado en diferentes carpetas, cada una centrada en un 
 - **ejemplos**: Ejemplos de código que ilustran conceptos clave.
 - **proyectos**: Proyectos prácticos para aplicar lo que has aprendido.
 
+## 🚀 Desafíos
+- [Piedra Papel o Tijeras ✊✋✂️](https://rodpobleted.notion.site/Piedra-Papel-Tijeras-117fe72128ca457196ab8223ff265aca?pvs=4): El juego más antiguo del mundo llevado a la consola, y en 2 versiones 😎
+
 ## 📚 Recursos Adicionales
 
 - [Documentación oficial de Dart](https://dart.dev/guides): La guía oficial de Dart es una referencia excelente.
