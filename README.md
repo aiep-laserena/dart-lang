@@ -15,8 +15,8 @@ El repositorio está organizado en diferentes carpetas, cada una centrada en un 
 - **01_basico**: Conceptos básicos para comenzar con Dart.
 - **02_control**: Estructuras de control y bucles en Dart.
 - **03_funciones**: Aspectos básicos sobre funciones, referencias, callbacks y arrow functions.
-- **04_tipos_no_comunes**: Exploración de listas, mapas, conjuntos y conceptos como el async/await en Dart.
-- **05_clases**: Programación orientada a objetos con Dart.
+- **04_clases**: Programación orientada a objetos con Dart.
+- **05_tipos_no_comunes**: Exploración de listas, mapas, conjuntos y conceptos como el async/await en Dart.
 - **ejemplos**: Ejemplos de código que ilustran conceptos clave.
 - **proyectos**: Proyectos prácticos para aplicar lo que has aprendido.
 
